@@ -12,3 +12,5 @@
 ## 🔗 Downloads
 - [For Windows](https://github.com/olehhhm/NoteerT/releases/download/v0.3.0/NoteerT.exe)
 - [For Android(Play Market)](https://play.google.com/store/apps/details?id=com.mnk.noteert&pli=1)
+
+<meta name="google-site-verification" content="ffFQuU3HNYJ37wSprPAl-NfW4x-lKrPi3bm0O_enLFo" />
