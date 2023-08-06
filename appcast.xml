@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>dev</title>
-        <description>NoteerT version 0.4.1</description>
+        <description>NoteerT version 0.4.2</description>
         <language>en</language>
         <item>
-            <title>Version 0.4.1</title>
+            <title>Version 0.4.2</title>
             <sparkle:releaseNotesLink>
             </sparkle:releaseNotesLink>
-            <pubDate>11.07.2023 20:40:00 +0200</pubDate>
-            <enclosure url="https://github.com/olehhhm/NoteerT/releases/download/v0.4.1/NoteerT.exe"
-                       sparkle:dsaSignature="+v4AwFacZBF50ezj3LA9WhJxGN7gwO+TqbIWadWG9mC8dHuqfamQRGG62kgMrFXyI9Vy3R+sy90OfMgenSxsDg=="
-                       sparkle:version="0.4.1"
+            <pubDate>06.08.2023 19:40:00 +0200</pubDate>
+            <enclosure url="https://github.com/olehhhm/NoteerT/releases/download/v0.4.2/NoteerT.exe"
+                       sparkle:dsaSignature="p9PdDo0HHAmi8QmsCMkJ1eTEQKpZBam76q6eqmawybYi6LOHW7rSNw3vmkrIVEkiXAcG/IMjWkbq6nTOylgUCA=="
+                       sparkle:version="0.4.2"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
