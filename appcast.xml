@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>dev</title>
-        <description>NoteerT version 0.4.3</description>
+        <title>stable</title>
+        <description>NoteerT version 0.5.0</description>
         <language>en</language>
         <item>
-            <title>Version 0.4.3</title>
+            <title>Version 0.5.0</title>
+            <pubDate>17.02.2024 18:00:00 +0200</pubDate>
+            <enclosure url="https://github.com/olehhhm/NoteerT/releases/download/v0.5.0/NoteerT.exe"
+                       rsaSignature="OGCvoAhkrCjDDKqDxW4t30et687xH3/lpZ6xpuKz+6ynehdc6jcImQ8bt0C7t+nPbUGUm6B+NILXcisx6j4R1w/oHP/9E3oaVTczEkPfOa45SZb+kqsPERHFHgHYhtC+X0rEwA1bxJ4762Mlt0kJEKXlyjHWrn2egG/tHe9TsURY9jGXYFsl8effHn/YiaE1D8CQTAyshJtFMy5tJActMCayD6WjRM1tRC4/ZpDTkRGdhR+uQzSM35JCEQssR0ZEJO80HmSgq4xyLsprPNfy8L9ZmZQ1I42mRjmzn3gkATYbJJ7Gw3nIJgkKF6SEI72+ZYXq1QM7+7SkTK7Dj6LX/A=="
+                       version="0.5.0"
+                       os="windows"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+    <channel>
+        <title>dev</title>
+        <description>NoteerT version 0.5.0</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.5.0</title>
             <sparkle:releaseNotesLink>
             </sparkle:releaseNotesLink>
-            <pubDate>06.08.2023 22:05:00 +0200</pubDate>
-            <enclosure url="https://github.com/olehhhm/NoteerT/releases/download/v0.4.3/NoteerT.exe"
-                       sparkle:dsaSignature="Fay/mwWYELDPanF4j1jet7rSf1x5N3jzyHBwUFC103pBFd0gPELvt/kTVr3Po1dQSu0EwQhL1vE2DfdUyU9nAQ=="
-                       sparkle:version="0.4.3"
+            <pubDate>17.02.2024 18:00:00 +0200</pubDate>
+            <enclosure url="https://github.com/olehhhm/NoteerT/releases/download/v0.5.0/NoteerT.exe"
+                       sparkle:dsaSignature="NPZ3jdLePhbu1sUk7VKV4GrWEU31LNYb3YRE+gsDB3yVUBwxbMKD/FzG/lOQ4O7gC/5h8APR1EslFXzh314VAw=="
+                       sparkle:version="0.5.0"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
