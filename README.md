@@ -10,5 +10,8 @@
 - You can take some random note(useful for lists of films etc.)
 
 ## 🔗 Downloads
-- [For Windows](https://github.com/olehhhm/NoteerT/releases/download/v0.3.0/NoteerT.exe)
+- [For Windows](https://github.com/olehhhm/NoteerT/releases/latest/download/NoteerT.exe)
 - [For Android(Play Market)](https://play.google.com/store/apps/details?id=com.mnk.noteert&pli=1)
+- [For MacOS](https://github.com/olehhhm/NoteerT/releases/latest/download/NoteerT.dmg)
+
+To run it on MacOS for the first time follow this [guide](https://support.apple.com/en-gb/guide/mac-help/mh40616/mac)
