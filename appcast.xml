@@ -14,6 +14,16 @@
                        length="0"
                        type="application/octet-stream" />
         </item>
+        <item>
+            <title>Version 0.5.0</title>
+            <pubDate>17.02.2024 18:00:00 +0200</pubDate>
+            <enclosure url="https://github.com/olehhhm/NoteerT/releases/download/v0.5.0/NoteerT.dmg"
+                       rsaSignature="LIRmGyYs/5UYS2Gf7cMNa7z43ueJD58dy7dv9Qyi0Ei1SDRPfIWLxEkPMbDTbMSjtEciiwmCE1EzGrOTFTaavxm4csQODfy64t59hAE2fTzQAVML+GXXwr4/8aPei5sHf2mEPknkgkVaIouSA/zESbmMg4No4FHdaNsWqhEywIXj92SBbU0MkzAMmnVu5Dsl1SgRh4o6o3SJdSKwM894NveuTDSeHzt50jMHCq3CM5CGqrAv3AUZweY6uMbOuX8+BJuoiEV4gO9DAUsOHY9UKVEkDkoOlMZWVyv/O6UDbhWdFkrsMLTF/aRd0N5f43gvnJDw03ySvnokrzw3HE6/lw=="
+                       length="0"
+                       version="0.5.0"
+                       os="macos"
+                       type="application/octet-stream" />
+        </item>
     </channel>
     <channel>
         <title>dev</title>
