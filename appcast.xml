@@ -20,7 +20,7 @@
             <enclosure url="https://github.com/olehhhm/NoteerT/releases/download/v0.6.3/NoteerT.dmg"
                        rsaSignature="imQcktS925q1R+8tp3zbV+KyDL8R5qGejigQkd3DyuTxMebDTfeaQDJPTXtyWbXT9WKzkLEa2aErwIREew+s6r5D1/WrO2E5CcCZWm2eEMfrbtTa7gwYimYjmv4ip8tB1JUyWEtZBGAW2AxeKyPnVZ1d3lBwPNxFg1tGFszuHJkTFSHSWzVOUx/VjZZCJxJLZQrXMOsNpqP1l+n4UbzUcMacFtp6kc8qpCYAWNvUPUowZFZ/p7Ygm02WdIrGFgwzTFgx23+H6wDk6/7iwZBZsy1+n0I0AmiKaNLv+Wl/6FUCzWzMYXdyi+7jb0yYdPC/PQiOOW9Wb7dyhpVNtlSVSA=="
                        length="0"
-                       version="0.6.2"
+                       version="0.6.3"
                        os="macos"
                        type="application/octet-stream" />
         </item>
