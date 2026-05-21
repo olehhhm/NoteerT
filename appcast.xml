@@ -15,12 +15,12 @@
                        type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 0.6.1</title>
-            <pubDate>21.05.2024 17:25:00 +0300</pubDate>
+            <title>Version 0.6.2</title>
+            <pubDate>21.05.2024 18:00:00 +0300</pubDate>
             <enclosure url="https://github.com/olehhhm/NoteerT/releases/download/v0.6.1/NoteerT.dmg"
-                       rsaSignature="E9g2jJ5J/otuoFdlR8ZU6ebo5CVLFzP+dWMkA4Oebyvsj7Xy6KctO9+5H+8aRUrd1fribPb8vAlwXRptA7EMEGZK+oVL18Snz7lELuiDZisXFX1+jSpJzRBZgoU1S5fmk8FT4zupDvRGp/uPcvEqjfMEZwVbyU+XIeuqkYomdl1XK5dRugHPdTo4vpXpmpfh8WN6EJflnVhaMO76NsEix4AIb/ki+v96A5LKCNUD8pJjnkm1ImZ2joNFTpXnZdvySnp9l6LVq365AhfVujeitzS5NQHr/qyxjiKaSUSbnp0y1YH8DIj48B772jqKjYOQCrqiumM58vs8HecL+iz0Ng=="
+                       rsaSignature="ilrAom2RLQnDElQaDn2zT++enFjuUfYtQ+BhpQLnfB90yjmgsNlYMcKmWNDpvCjfc++oApkUxw8dHRTtHzkm33GtYyKa4U5JiSQLBb6iRrx2UoOL8+Kvggh7bTMJlZUYevYjmTSS6E8lCbFOyDCVqCvSFAbP8xowteQ5L3eiLWJvtU33iFXS736emuSQIpbgF3UTyNLKaeKvTefWSnLsj8QAwpMig5ob0Y8AeahFVOyJikh6+mRPrA7TLPec/1iETpPMPSIF33NoWmjYgo2DtWl4Bi6uqQNiy05VOuU2/7XPWT+BuA2jd+5taGYNhVqFxvpasy4IMdKJBL6CyvOrqQ=="
                        length="0"
-                       version="0.6.1"
+                       version="0.6.2"
                        os="macos"
                        type="application/octet-stream" />
         </item>
